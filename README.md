@@ -19,12 +19,12 @@ A collection of Jupyter notebooks that demonstrate fundamental Python programmin
 ```text
 Practices/
 ├── README.md
-├── books.csv
-├── thermometry.csv
 ├── files/
-│   └── Python_Practice_Problems.pdf
+│     └── Python_Practice_Problems.pdf
 ├── julia/
-│   └── intro_to_julia.ipynb
+      ├── books.csv
+      ├── thermometry.csv
+│     └── intro_to_julia.ipynb
 ├── notebooks/
 │   ├── Age_calculator.ipynb
 │   ├── Bisection_method.ipynb
