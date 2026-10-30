@@ -18,7 +18,6 @@ A collection of Jupyter notebooks that demonstrate fundamental Python programmin
 
 ```text
 Practices/
-├── README.md
 ├── files/
 │     └── Python_Practice_Problems.pdf
 ├── julia/
@@ -33,7 +32,7 @@ Practices/
 │      ├── Numerical_Integration.ipynb
 │      ├── my_Practice.ipynb
 │      └── practice_set1.ipynb
-└── .gitignore
+└── README.md
 ```
 
 ---
