@@ -22,17 +22,17 @@ Practices/
 ├── files/
 │     └── Python_Practice_Problems.pdf
 ├── julia/
-      ├── books.csv
-      ├── thermometry.csv
+│     ├── books.csv
+│     ├── thermometry.csv
 │     └── intro_to_julia.ipynb
 ├── notebooks/
-│   ├── Age_calculator.ipynb
-│   ├── Bisection_method.ipynb
-│   ├── Divided_difference_and_interpolation.ipynb
-│   ├── Lagrange_polynomial.ipynb
-│   ├── Numerical_Integration.ipynb
-│   ├── my_Practice.ipynb
-│   └── practice_set1.ipynb
+│      ├── Age_calculator.ipynb
+│      ├── Bisection_method.ipynb
+│      ├── Divided_difference_and_interpolation.ipynb
+│      ├── Lagrange_polynomial.ipynb
+│      ├── Numerical_Integration.ipynb
+│      ├── my_Practice.ipynb
+│      └── practice_set1.ipynb
 └── .gitignore
 ```
 
