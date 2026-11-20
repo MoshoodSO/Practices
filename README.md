@@ -21,8 +21,10 @@ Practices/
 ├── files/
 │     └── Python_Practice_Problems.pdf
 ├── julia/
+|     ├── intermediate_julia.ipynb
 │     ├── books.csv
 │     ├── thermometry.csv
+|     ├── 
 │     └── intro_to_julia.ipynb
 ├── notebooks/
 │      ├── Age_calculator.ipynb
