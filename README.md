@@ -23,8 +23,8 @@ Practices/
 ├── julia/
 |     ├── intermediate_julia.ipynb
 │     ├── books.csv
+|     ├── books_rough.ipynb
 │     ├── thermometry.csv
-|     ├── 
 │     └── intro_to_julia.ipynb
 ├── notebooks/
 │      ├── Age_calculator.ipynb
